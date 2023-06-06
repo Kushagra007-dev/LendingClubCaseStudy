@@ -19,7 +19,7 @@
 - Univariate Analysis Inferences:
     - The loan amount between 5000 - 10000 is requested the most by the loan applicants.
     - People with the annual salary between 40000-60000 have applied for the loans the most than the poeple falling in other salary brackets.
-    - Most of the applicants interest rate lies between 10 - 14 %
+    - Most of the applicants interest rate lies between 10 - 14 %.
     - Most of the people who applied for loan have their DTI between 10 - 15.
     - Most of the loan installments lies bewteen 160 - 300 per month.
     - Close to 78 % of the people have fully paid their loan.
