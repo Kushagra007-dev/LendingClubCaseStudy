@@ -44,11 +44,11 @@ race.
     - The average DTI amongst the loan applicants has increased over the years.
     - The average ROI is less for grade A applicants while grade G have the highest. Average DTI for Grade A applicants is least too.
     - There is a significant increase in the ROI as the loan amount increases.
-    - The rate of interest on 60 months term is more than that of 36 months term
+    - The rate of interest on 60 months term is more than that of 36 months term.
     - ROI is more for the people who have the verified.
-    - When the loan amount is more , people opt for 60 months of term
+    - When the loan amount is more , people opt for 60 months of term.
     - There is a slight difference in the DTI of a 36 months tenure applicants as compared to 60 month term.
-    - DTI of verified people is slightly more than the source verified and not verified
+    - DTI of verified people is slightly more than the source verified and not verified.
     - Installemnts increase with the increase in the loan amount and interest rate.
 
 - Bivariate Analysis Inferences:
@@ -63,8 +63,8 @@ race.
     - People who have experience of more than 10 years are ikely to be at default for higher amount and rate of interest.
     - People who took loan for tenure of 60 months are likey to be default for higher amount, rate of interest and DTI.
     - As the rate of interest increases with the loan amount , people are more likely to be at default. 
-    - Maximum applicants from charged off group have high loan and more bankruptcies records on their name
-    - Maximum applicants from charged off group with higher DTI have 1 bankruptcy record
+    - Maximum applicants from charged off group have high loan and more bankruptcies records on their name.
+    - Maximum applicants from charged off group with higher DTI have 1 bankruptcy record.
     - Maximum applicants from charged off group have higher rate of interest have more records for derogatory on their name.
     - Maximum applicants from charged off group with higher DTI have 1 derogatory record.
 
